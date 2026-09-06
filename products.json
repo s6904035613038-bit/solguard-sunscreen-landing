@@ -1,0 +1,102 @@
+[
+  {
+    "id": "face-matte-30",
+    "name": "SolGuard กันแดดทาหน้า Matte คุมมัน 30ml",
+    "formula": "matte",
+    "category": "face",
+    "size": "30ml",
+    "price": 189,
+    "image": "images/matte.jpg",
+    "description": "กันแดดเนื้อบางเบาสูตร Matte ช่วยคุมความมันตลอดวัน ซึมไวไม่ทิ้งคราบขาว เหมาะสำหรับผิวมันและผิวผสม"
+  },
+  {
+    "id": "face-matte-50",
+    "name": "SolGuard กันแดดทาหน้า Matte คุมมัน 50ml",
+    "formula": "matte",
+    "category": "face",
+    "size": "50ml",
+    "price": 350,
+    "image": "images/matte.jpg",
+    "description": "กันแดดเนื้อบางเบาสูตร Matte ช่วยคุมความมันตลอดวัน ซึมไวไม่ทิ้งคราบขาว ขนาดคุ้มค่าสำหรับใช้ทุกวัน"
+  },
+  {
+    "id": "face-glow-30",
+    "name": "SolGuard กันแดดทาหน้า Glow ฉ่ำวาว 30ml",
+    "formula": "glow",
+    "category": "face",
+    "size": "30ml",
+    "price": 189,
+    "image": "images/glow.jpg",
+    "description": "กันแดดเนื้อฉ่ำ เพิ่มความชุ่มชื้นและออร่าเปล่งประกาย ให้ผิวดูสุขภาพดีตั้งแต่เช้าจรดเย็น"
+  },
+  {
+    "id": "face-glow-50",
+    "name": "SolGuard กันแดดทาหน้า Glow ฉ่ำวาว 50ml",
+    "formula": "glow",
+    "category": "face",
+    "size": "50ml",
+    "price": 350,
+    "image": "images/glow.jpg",
+    "description": "กันแดดเนื้อฉ่ำ เพิ่มความชุ่มชื้นและออร่าเปล่งประกาย ขนาดใหญ่คุ้มค่าสำหรับผิวหน้าที่ต้องการความชุ่มชื้นสูง"
+  },
+  {
+    "id": "face-sensitive-30",
+    "name": "SolGuard กันแดดทาหน้า Sensitive ผิวแพ้ง่าย 30ml",
+    "formula": "sensitive",
+    "category": "face",
+    "size": "30ml",
+    "price": 189,
+    "image": "images/sensitive.jpg",
+    "description": "สูตรอ่อนโยนพิเศษ ปราศจากน้ำหอม เหมาะสำหรับผิวแพ้ง่ายและผิวบอบบาง ผ่านการทดสอบด้านผิวหนัง"
+  },
+  {
+    "id": "face-sensitive-50",
+    "name": "SolGuard กันแดดทาหน้า Sensitive ผิวแพ้ง่าย 50ml",
+    "formula": "sensitive",
+    "category": "face",
+    "size": "50ml",
+    "price": 350,
+    "image": "images/sensitive.jpg",
+    "description": "สูตรอ่อนโยนพิเศษ ปราศจากน้ำหอม เหมาะสำหรับผิวแพ้ง่ายและผิวบอบบาง ขนาดใหญ่สำหรับใช้ต่อเนื่อง"
+  },
+  {
+    "id": "face-outdoor-30",
+    "name": "SolGuard กันแดดทาหน้า Outdoor สปอร์ต 30ml",
+    "formula": "outdoor",
+    "category": "face",
+    "size": "30ml",
+    "price": 189,
+    "image": "images/outdoor.jpg",
+    "description": "สูตรกันน้ำกันเหงื่อ ทนทานสำหรับกิจกรรมกลางแจ้งและการออกกำลังกาย ปกป้องผิวหน้าได้ยาวนาน"
+  },
+  {
+    "id": "face-outdoor-50",
+    "name": "SolGuard กันแดดทาหน้า Outdoor สปอร์ต 50ml",
+    "formula": "outdoor",
+    "category": "face",
+    "size": "50ml",
+    "price": 350,
+    "image": "images/outdoor.jpg",
+    "description": "สูตรกันน้ำกันเหงื่อ ทนทานสำหรับกิจกรรมกลางแจ้งและการออกกำลังกาย ขนาดใหญ่สำหรับสายลุยตัวจริง"
+  },
+  {
+    "id": "body-sensitive-100",
+    "name": "SolGuard กันแดดทาตัว Sensitive ผิวแพ้ง่าย 100ml",
+    "formula": "sensitive",
+    "category": "body",
+    "size": "100ml",
+    "price": 290,
+    "image": "images/sensitive.jpg",
+    "description": "กันแดดทาตัวสูตรอ่อนโยน ปราศจากน้ำหอม เหมาะสำหรับผิวกายที่บอบบางและแพ้ง่าย"
+  },
+  {
+    "id": "body-outdoor-100",
+    "name": "SolGuard กันแดดทาตัว Outdoor กันน้ำ 100ml",
+    "formula": "outdoor",
+    "category": "body",
+    "size": "100ml",
+    "price": 290,
+    "image": "images/outdoor.jpg",
+    "description": "กันแดดทาตัวสูตรกันน้ำกันเหงื่อ เหมาะสำหรับกิจกรรมกลางแจ้ง ว่ายน้ำ และเล่นกีฬา"
+  }
+]
